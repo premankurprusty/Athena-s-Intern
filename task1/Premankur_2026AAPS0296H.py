@@ -75,7 +75,7 @@ animation = anim(
     fig,
     update,
     frames=len(rawValues),
-    interval=0,
+    interval=1000,
     repeat=False
 )
 
