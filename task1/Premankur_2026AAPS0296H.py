@@ -85,7 +85,7 @@ def update(frame):
 animation = anim(
         fig,
         update,
-        interval = 1,
+        interval = 1000,
         repeat = False,
         cache_frame_data = False
         )
